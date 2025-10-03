@@ -7,6 +7,7 @@ import OurTeam from "./pages/OurTeam";
 import ContactUs from "./pages/ContactUs";
 import Footer from "./components/Footer/Footer";
 import Login from "./pages/Login";
+import ScrollToTop from "./components/ScrollToTop";
 
 
 const App = ()=> {
@@ -14,6 +15,7 @@ const App = ()=> {
 
       <BrowserRouter>
           <div className="overflow-x-hidden bg-white text-dark">
+                <ScrollToTop />
               <Routes>
                   <Route path="/" element={<Home />} />
                   <Route path="/services" element={<Services />} />
