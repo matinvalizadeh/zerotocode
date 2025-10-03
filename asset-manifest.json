@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zerotocode/static/css/main.bbf37850.css",
+    "main.js": "/zerotocode/static/js/main.cf004e2f.js",
+    "static/js/453.079d4e7d.chunk.js": "/zerotocode/static/js/453.079d4e7d.chunk.js",
+    "static/media/Vazirmatn-Medium.ttf": "/zerotocode/static/media/Vazirmatn-Medium.69fe579d5c984c16172d.ttf",
+    "static/media/banner2.png": "/zerotocode/static/media/banner2.e35378fc670e686dd80b.png",
+    "static/media/bg.png": "/zerotocode/static/media/bg.b1b3ca496d98ce44d4fe.png",
+    "static/media/Vazirmatn-Medium.woff2": "/zerotocode/static/media/Vazirmatn-Medium.bc7d8f11b2c39fd0a880.woff2",
+    "static/media/banner.png": "/zerotocode/static/media/banner.3553d26643e7db5e8a60.png",
+    "static/media/hero.svg": "/zerotocode/static/media/hero.859601e05b80a4541702d38b8a48e389.svg",
+    "static/media/blob.svg": "/zerotocode/static/media/blob.b8edc8697a7ee984ec794c1e99d8530a.svg",
+    "index.html": "/zerotocode/index.html",
+    "main.bbf37850.css.map": "/zerotocode/static/css/main.bbf37850.css.map",
+    "main.cf004e2f.js.map": "/zerotocode/static/js/main.cf004e2f.js.map",
+    "453.079d4e7d.chunk.js.map": "/zerotocode/static/js/453.079d4e7d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf37850.css",
+    "static/js/main.cf004e2f.js"
+  ]
+}
